@@ -6,7 +6,8 @@ html {
 }
 .top h1 {
   font-weight: normal;
-  font-size: 50px;
+  font-size: 48px;
+  letter-spacing:-1
 }
 a {
   font-size: 16px;
@@ -20,6 +21,10 @@ a {
 .middle p {
   font-size: 21px;
   color: gray;
+}
+.bottom h1 {
+  font-size: 40px;
+  font-weight: normal;
 }
 .copyright {
   text-align: right;
